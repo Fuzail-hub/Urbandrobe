@@ -1,0 +1,19 @@
+# Urbandrobe — GitHub Pages Configuration
+title: Urbandrobe
+description: "Curated men's fashion — Streetwear, Ethnic & Festive, Smart Casuals from Amazon India."
+url: "https://urbandrobe.in"
+baseurl: ""
+
+# Exclude CMS source files from build
+exclude:
+  - _products
+  - _posts
+  - README.md
+  - LICENSE
+
+# Include admin directory
+include:
+  - admin
+
+# No Jekyll processing needed for static HTML
+plugins: []

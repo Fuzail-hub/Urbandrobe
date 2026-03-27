@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+    <!-- Homepage -->
+    <url>
+        <loc>https://urbandrobe.in/</loc>
+        <lastmod>2025-03-15</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <!-- Category Pages -->
+    <url>
+        <loc>https://urbandrobe.in/streetwear.html</loc>
+        <lastmod>2025-03-15</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.9</priority>
+    </url>
+
+    <url>
+        <loc>https://urbandrobe.in/ethnic.html</loc>
+        <lastmod>2025-03-15</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.9</priority>
+    </url>
+
+    <url>
+        <loc>https://urbandrobe.in/smart-casuals.html</loc>
+        <lastmod>2025-03-15</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.9</priority>
+    </url>
+
+    <!-- Style Guide -->
+    <url>
+        <loc>https://urbandrobe.in/style-guide.html</loc>
+        <lastmod>2025-03-15</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <!-- Product Pages -->
+    <url>
+        <loc>https://urbandrobe.in/products/oversized-graphic-hoodie.html</loc>
+        <lastmod>2025-03-15</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://urbandrobe.in/products/mandarin-collar-kurta.html</loc>
+        <lastmod>2025-03-14</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://urbandrobe.in/products/slim-fit-chino-trousers.html</loc>
+        <lastmod>2025-03-13</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://urbandrobe.in/products/cargo-joggers-olive.html</loc>
+        <lastmod>2025-03-12</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://urbandrobe.in/products/linen-nehru-jacket.html</loc>
+        <lastmod>2025-03-11</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://urbandrobe.in/products/knit-polo-midnight.html</loc>
+        <lastmod>2025-03-10</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://urbandrobe.in/products/acid-wash-denim-jacket.html</loc>
+        <lastmod>2025-03-09</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://urbandrobe.in/products/embroidered-silk-kurta-set.html</loc>
+        <lastmod>2025-03-08</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://urbandrobe.in/products/oxford-button-down-shirt.html</loc>
+        <lastmod>2025-03-07</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <!-- Style Guide Posts -->
+    <url>
+        <loc>https://urbandrobe.in/style-guide/ethnic-kurtas-under-1500.html</loc>
+        <lastmod>2025-03-15</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+
+    <url>
+        <loc>https://urbandrobe.in/style-guide/build-streetwear-wardrobe.html</loc>
+        <lastmod>2025-03-10</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+
+    <url>
+        <loc>https://urbandrobe.in/style-guide/smart-casual-decoded.html</loc>
+        <lastmod>2025-03-05</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+
+</urlset>
